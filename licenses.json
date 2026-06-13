@@ -1,4 +1,14 @@
 {
-  "bots": [],
-  "admin_ids": [7350341945]
+  "admin_ids": [7350341945],
+  "owner_id": 7350341945,
+  "registered_bots": [
+    {
+      "bot_id": "573105292192",
+      "owner_number": "6287876738874",
+      "allowed_bot_numbers": [],
+      "number_meta": {},
+      "added_by": "admin",
+      "registered_tg_id": 7350341945
+    }
+  ]
 }
