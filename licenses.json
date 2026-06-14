@@ -22,7 +22,9 @@
       "telegram_name": "Yth Juna Kzkg",
       "telegram_id": 8823372493,
       "whatsapp_number": "628136175404",
-      "allowed_bot_numbers": [],
+      "allowed_bot_numbers": [
+        "628136175404"
+      ],
       "created_at": "14/6/2026, 15.53.52",
       "created_by": "superadmin"
     }
