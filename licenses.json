@@ -1,5 +1,7 @@
 {
-  "admin_ids": [7350341945],
+  "admin_ids": [
+    7350341945
+  ],
   "owner_id": 7350341945,
   "global_users": [],
   "blacklist": [],
@@ -13,6 +15,16 @@
       "allowed_bot_numbers": [],
       "created_at": "14/6/2026 07.00.00",
       "created_by": "admin"
+    },
+    {
+      "bot_id": "HARVEST_002",
+      "role": "buyerbot",
+      "telegram_name": "Yth Juna Kzkg",
+      "telegram_id": 8823372493,
+      "whatsapp_number": "628136175404",
+      "allowed_bot_numbers": [],
+      "created_at": "14/6/2026, 15.53.52",
+      "created_by": "superadmin"
     }
   ]
 }
