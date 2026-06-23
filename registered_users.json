@@ -10,7 +10,9 @@
     "telegram_id": 7209132612,
     "telegram_name": "how",
     "whatsapp_number": "6285178376455",
-    "bot_numbers": [],
+    "bot_numbers": [
+      "6285124944276"
+    ],
     "approved_by": "Narayana",
     "approved_at": "21/6/2026, 07.15.53",
     "claimed_at": "21/6/2026, 14.41.28"
