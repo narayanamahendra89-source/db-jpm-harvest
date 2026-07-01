@@ -45,7 +45,9 @@
     "telegram_id": 7018056603,
     "telegram_name": "Denz",
     "whatsapp_number": "6281316157712",
-    "bot_numbers": [],
+    "bot_numbers": [
+      "62895393895719"
+    ],
     "approved_by": "Narayana (MasterList)",
     "approved_at": "1/7/2026, 16.20.34",
     "claimed_at": "1/7/2026, 16.26.33"
