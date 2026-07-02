@@ -67,7 +67,9 @@
     "telegram_id": 1353387340,
     "telegram_name": "Rinzs",
     "whatsapp_number": "089691533124",
-    "bot_numbers": [],
+    "bot_numbers": [
+      "62895324608048"
+    ],
     "registered_at": "2/7/2026, 18.15.08"
   }
 ]
