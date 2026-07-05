@@ -6,7 +6,7 @@
       "name": ""
     },
     "7350341945": {
-      "balance": 104000,
+      "balance": 100500,
       "orders": 1,
       "name": "Narayana"
     },
@@ -30,9 +30,10 @@
       "phone": "+62 856 4520 6631",
       "apiOrderId": "RO0022526424",
       "price": 3500,
-      "status": "PROCESSING_CANCEL",
+      "status": "CANCELED",
       "otp": null,
-      "ts": 1783226828687
+      "ts": 1783226828687,
+      "canceledAt": 1783226874601
     }
   ],
   "deposits": []
