@@ -100,11 +100,14 @@
     "claimed_at": "3/7/2026, 03.15.54"
   },
   {
-    "telegram_id": null,
-    "telegram_name": "(belum claim)",
+    "telegram_id": 8186429681,
+    "telegram_name": "VALLEY PEDIAA",
     "whatsapp_number": "6283152215453",
-    "bot_numbers": [],
+    "bot_numbers": [
+      "6283152215453"
+    ],
     "approved_by": "CelotX Community Sword (MasterList)",
-    "approved_at": "5/7/2026, 14.29.33"
+    "approved_at": "5/7/2026, 14.29.33",
+    "claimed_at": "5/7/2026, 14.31.08"
   }
 ]
