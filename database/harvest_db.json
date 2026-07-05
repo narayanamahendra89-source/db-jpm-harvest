@@ -164,7 +164,7 @@
       "price": 3500,
       "userName": "Narayana",
       "source": "cheapest",
-      "status": "WAITING",
+      "status": "TIMEOUT_REFUND",
       "otp": null,
       "ts": 1783260774922
     }
