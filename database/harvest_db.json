@@ -43,9 +43,11 @@
       "phone": "+62 857 1902 3483",
       "apiOrderId": "RO0022526599",
       "price": 3500,
-      "status": "WAITING",
-      "otp": null,
-      "ts": 1783226879354
+      "status": "DELIVERED",
+      "otp": "411535",
+      "ts": 1783226879354,
+      "sms": "411535",
+      "deliveredAt": 1783226918015
     }
   ],
   "deposits": []
