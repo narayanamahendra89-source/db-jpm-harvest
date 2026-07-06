@@ -27,7 +27,7 @@
     },
     "8091092407": {
       "balance": 1500,
-      "orders": 5,
+      "orders": 6,
       "name": "Frezzzz⚡"
     }
   },
@@ -311,6 +311,20 @@
       "otp": null,
       "ts": 1783330172729,
       "canceledAt": 1783330253576
+    },
+    {
+      "oid": "HVMR9251YG",
+      "uid": "8091092407",
+      "app": "wa",
+      "srv": 1,
+      "phone": "+62 851 3848 5396",
+      "apiOrderId": "RO0022947048",
+      "price": 3500,
+      "userName": "Frezzzz⚡",
+      "source": "cheapest",
+      "status": "WAITING",
+      "otp": null,
+      "ts": 1783332523816
     }
   ],
   "deposits": [
