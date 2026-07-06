@@ -26,7 +26,7 @@
       "name": ""
     },
     "8091092407": {
-      "balance": 1500,
+      "balance": 5000,
       "orders": 4,
       "name": "Frezzzz⚡"
     }
@@ -292,9 +292,10 @@
       "price": 3500,
       "userName": "Frezzzz⚡",
       "source": "cheapest",
-      "status": "PROCESSING_CANCEL",
+      "status": "CANCELED",
       "otp": null,
-      "ts": 1783330015549
+      "ts": 1783330015549,
+      "canceledAt": 1783330066398
     }
   ],
   "deposits": [
