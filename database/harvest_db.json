@@ -27,7 +27,7 @@
     },
     "8091092407": {
       "balance": 1500,
-      "orders": 0,
+      "orders": 1,
       "name": "Frezzzz⚡"
     }
   },
@@ -236,6 +236,20 @@
       "status": "TIMEOUT_REFUND",
       "otp": null,
       "ts": 1783309526708
+    },
+    {
+      "oid": "HVMR90DOFZ",
+      "uid": "8091092407",
+      "app": "wa",
+      "srv": 1,
+      "phone": "+62 857 9815 2291",
+      "apiOrderId": "RO0022923495",
+      "price": 3500,
+      "userName": "Frezzzz⚡",
+      "source": "cheapest",
+      "status": "WAITING",
+      "otp": null,
+      "ts": 1783329566975
     }
   ],
   "deposits": [
