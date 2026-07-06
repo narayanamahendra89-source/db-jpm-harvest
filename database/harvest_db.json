@@ -367,7 +367,7 @@
       "price": 3000,
       "userName": "Frezzzz⚡",
       "source": "cheapest",
-      "status": "WAITING",
+      "status": "PROCESSING_CANCEL",
       "otp": null,
       "ts": 1783344144466
     }
