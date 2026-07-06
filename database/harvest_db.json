@@ -238,5 +238,13 @@
       "ts": 1783309526708
     }
   ],
-  "deposits": []
+  "deposits": [
+    {
+      "trx": "HVDEPMR90AEMX",
+      "uid": "8091092407",
+      "amt": 5000,
+      "status": "PENDING",
+      "ts": 1783329414298
+    }
+  ]
 }
