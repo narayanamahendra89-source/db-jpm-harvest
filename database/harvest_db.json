@@ -243,7 +243,7 @@
       "trx": "HVDEPMR90AEMX",
       "uid": "8091092407",
       "amt": 5000,
-      "status": "PENDING",
+      "status": "SUCCESS",
       "ts": 1783329414298
     }
   ]
