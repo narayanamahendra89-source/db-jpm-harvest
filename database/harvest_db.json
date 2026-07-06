@@ -337,9 +337,10 @@
       "price": 4000,
       "userName": "Frezzzz⚡",
       "source": "cheapest",
-      "status": "PROCESSING_CANCEL",
+      "status": "CANCELED",
       "otp": null,
-      "ts": 1783333319552
+      "ts": 1783333319552,
+      "canceledAt": 1783333407176
     }
   ],
   "deposits": [
