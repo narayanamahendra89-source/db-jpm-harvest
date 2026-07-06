@@ -7,7 +7,7 @@
     },
     "7350341945": {
       "balance": 45500,
-      "orders": 13,
+      "orders": 14,
       "name": "Narayana"
     },
     "8823372493": {
@@ -212,6 +212,20 @@
       "otp": null,
       "ts": 1783309471818,
       "canceledAt": 1783309504978
+    },
+    {
+      "oid": "HVMR8OG59W",
+      "uid": "7350341945",
+      "app": "wa",
+      "srv": 3,
+      "phone": "+62 856 4523 6064",
+      "apiOrderId": "RO0022824118",
+      "price": 5000,
+      "userName": "Narayana",
+      "source": "manual",
+      "status": "WAITING",
+      "otp": null,
+      "ts": 1783309526708
     }
   ],
   "deposits": []
