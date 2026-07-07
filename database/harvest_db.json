@@ -472,9 +472,11 @@
       "price": 4000,
       "userName": "Frezzzz⚡",
       "source": "cheapest",
-      "status": "WAITING",
-      "otp": null,
-      "ts": 1783383751069
+      "status": "DELIVERED",
+      "otp": "721318",
+      "ts": 1783383751069,
+      "sms": "721318",
+      "deliveredAt": 1783383823196
     }
   ],
   "deposits": [
