@@ -6,7 +6,7 @@
       "name": ""
     },
     "7350341945": {
-      "balance": 47000,
+      "balance": 46500,
       "orders": 15,
       "name": "Narayana"
     },
@@ -488,9 +488,10 @@
       "price": 3500,
       "userName": "Narayana",
       "source": "cheapest",
-      "status": "PROCESSING_CANCEL",
+      "status": "CANCELED",
       "otp": null,
-      "ts": 1783498810255
+      "ts": 1783498810255,
+      "canceledAt": 1783498845865
     }
   ],
   "deposits": [
