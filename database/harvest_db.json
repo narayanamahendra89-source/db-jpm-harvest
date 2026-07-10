@@ -1,7 +1,7 @@
 {
   "users": {
     "1353387340": {
-      "balance": 1500,
+      "balance": 5000,
       "orders": 1,
       "name": "Rinzs"
     },
@@ -539,7 +539,7 @@
       "price": 3500,
       "userName": "Rinzs",
       "source": "cheapest",
-      "status": "WAITING",
+      "status": "TIMEOUT_REFUND",
       "otp": null,
       "ts": 1783675855239
     }
