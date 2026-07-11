@@ -36,7 +36,7 @@
       "name": ""
     },
     "6102730631": {
-      "balance": 1000,
+      "balance": 4000,
       "orders": 3,
       "name": "Anonim"
     }
@@ -604,9 +604,10 @@
       "price": 3000,
       "userName": "Anonim",
       "source": "cheapest",
-      "status": "PROCESSING_CANCEL",
+      "status": "CANCELED",
       "otp": null,
-      "ts": 1783754100367
+      "ts": 1783754100367,
+      "canceledAt": 1783754103557
     }
   ],
   "deposits": [
