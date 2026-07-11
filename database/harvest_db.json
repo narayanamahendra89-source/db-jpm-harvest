@@ -691,7 +691,7 @@
       "trx": "HVDEPMRGD61SZ",
       "uid": "1353387340",
       "amt": 10000,
-      "status": "PENDING",
+      "status": "SUCCESS",
       "ts": 1783774309284
     }
   ]
