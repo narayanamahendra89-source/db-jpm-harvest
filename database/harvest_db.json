@@ -37,7 +37,7 @@
     },
     "6102730631": {
       "balance": 1000,
-      "orders": 2,
+      "orders": 3,
       "name": "Anonim"
     }
   },
@@ -593,6 +593,20 @@
       "otp": null,
       "ts": 1783753813601,
       "canceledAt": 1783753852684
+    },
+    {
+      "oid": "HVMRG14WI7",
+      "uid": "6102730631",
+      "app": "wa",
+      "srv": 4,
+      "phone": "+375 25 903 98 64",
+      "apiOrderId": "RO0025334576",
+      "price": 3000,
+      "userName": "Anonim",
+      "source": "cheapest",
+      "status": "PROCESSING_CANCEL",
+      "otp": null,
+      "ts": 1783754100367
     }
   ],
   "deposits": [
