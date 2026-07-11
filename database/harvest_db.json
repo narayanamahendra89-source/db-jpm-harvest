@@ -37,7 +37,7 @@
     },
     "6102730631": {
       "balance": 1000,
-      "orders": 0,
+      "orders": 1,
       "name": "Anonim"
     }
   },
@@ -563,6 +563,20 @@
       "ts": 1783676381719,
       "sms": "865305",
       "deliveredAt": 1783676444471
+    },
+    {
+      "oid": "HVMRG0UXBG",
+      "uid": "6102730631",
+      "app": "wa",
+      "srv": 4,
+      "phone": "+375 33 345 54 72",
+      "apiOrderId": "RO0025329767",
+      "price": 3000,
+      "userName": "Anonim",
+      "source": "cheapest",
+      "status": "WAITING",
+      "otp": null,
+      "ts": 1783753634860
     }
   ],
   "deposits": [
