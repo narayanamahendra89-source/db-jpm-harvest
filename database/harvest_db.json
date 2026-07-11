@@ -619,9 +619,11 @@
       "price": 4000,
       "userName": "Anonim",
       "source": "cheapest",
-      "status": "WAITING",
-      "otp": null,
-      "ts": 1783754159380
+      "status": "DELIVERED",
+      "otp": "736780",
+      "ts": 1783754159380,
+      "sms": "736780",
+      "deliveredAt": 1783754192427
     }
   ],
   "deposits": [
