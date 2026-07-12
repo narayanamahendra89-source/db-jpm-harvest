@@ -6,7 +6,7 @@
       "name": "Rinzs"
     },
     "7350341945": {
-      "balance": 27500,
+      "balance": 32000,
       "orders": 24,
       "name": "Narayana"
     },
@@ -728,11 +728,12 @@
       "price": 4500,
       "userName": "Narayana",
       "source": "manual",
-      "status": "PROCESSING_CANCEL",
+      "status": "CANCELED",
       "otp": "491805",
       "ts": 1783823376122,
       "sms": "491805",
-      "deliveredAt": 1783823489122
+      "deliveredAt": 1783823489122,
+      "canceledAt": 1783823534485
     }
   ],
   "deposits": [
