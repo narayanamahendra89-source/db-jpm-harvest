@@ -745,9 +745,11 @@
       "price": 4000,
       "userName": "Narayana",
       "source": "manual",
-      "status": "WAITING",
-      "otp": null,
-      "ts": 1783824377390
+      "status": "DELIVERED",
+      "otp": "561528",
+      "ts": 1783824377390,
+      "sms": "561528",
+      "deliveredAt": 1783824567529
     }
   ],
   "deposits": [
