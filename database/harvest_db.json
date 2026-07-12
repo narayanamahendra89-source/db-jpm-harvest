@@ -6,7 +6,7 @@
       "name": "Rinzs"
     },
     "7350341945": {
-      "balance": 32000,
+      "balance": 35500,
       "orders": 22,
       "name": "Narayana"
     },
@@ -697,9 +697,10 @@
       "price": 3500,
       "userName": "Narayana",
       "source": "cheapest",
-      "status": "PROCESSING_CANCEL",
+      "status": "CANCELED",
       "otp": null,
-      "ts": 1783822730856
+      "ts": 1783822730856,
+      "canceledAt": 1783822820820
     }
   ],
   "deposits": [
