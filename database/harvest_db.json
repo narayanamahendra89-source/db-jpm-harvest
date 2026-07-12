@@ -7,7 +7,7 @@
     },
     "7350341945": {
       "balance": 27500,
-      "orders": 23,
+      "orders": 24,
       "name": "Narayana"
     },
     "8823372493": {
@@ -717,6 +717,20 @@
       "ts": 1783822832692,
       "sms": "671441",
       "deliveredAt": 1783822865691
+    },
+    {
+      "oid": "HVMRH6DQ0Q",
+      "uid": "7350341945",
+      "app": "wa",
+      "srv": 3,
+      "phone": "+62 813 9003 9021",
+      "apiOrderId": "RO0025665947",
+      "price": 4500,
+      "userName": "Narayana",
+      "source": "manual",
+      "status": "WAITING",
+      "otp": null,
+      "ts": 1783823376122
     }
   ],
   "deposits": [
