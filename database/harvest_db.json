@@ -712,9 +712,11 @@
       "price": 3500,
       "userName": "Narayana",
       "source": "cheapest",
-      "status": "WAITING",
-      "otp": null,
-      "ts": 1783822832692
+      "status": "DELIVERED",
+      "otp": "671441",
+      "ts": 1783822832692,
+      "sms": "671441",
+      "deliveredAt": 1783822865691
     }
   ],
   "deposits": [
