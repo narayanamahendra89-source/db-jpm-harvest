@@ -818,9 +818,10 @@
       "price": 3000,
       "userName": "Narayana",
       "source": "cheapest",
-      "status": "WAITING",
+      "status": "CANCELED",
       "otp": null,
-      "ts": 1783937045449
+      "ts": 1783937045449,
+      "canceledAt": 1783937222813
     }
   ],
   "deposits": [
