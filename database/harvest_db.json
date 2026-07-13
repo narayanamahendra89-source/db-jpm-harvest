@@ -6,8 +6,8 @@
       "name": "Rinzs"
     },
     "7350341945": {
-      "balance": 28000,
-      "orders": 25,
+      "balance": 25000,
+      "orders": 26,
       "name": "Narayana"
     },
     "8823372493": {
@@ -807,6 +807,20 @@
       "ts": 1783861726742,
       "sms": "504036",
       "deliveredAt": 1783861775146
+    },
+    {
+      "oid": "HVMRJ221U0",
+      "uid": "7350341945",
+      "app": "wa",
+      "srv": 4,
+      "phone": "+375 29 308 98 03",
+      "apiOrderId": "RO0026255656",
+      "price": 3000,
+      "userName": "Narayana",
+      "source": "cheapest",
+      "status": "WAITING",
+      "otp": null,
+      "ts": 1783937045449
     }
   ],
   "deposits": [
