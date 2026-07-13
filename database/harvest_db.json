@@ -848,7 +848,7 @@
       "price": 5500,
       "userName": "Narayana",
       "source": "manual",
-      "status": "WAITING",
+      "status": "PROCESSING_CANCEL",
       "otp": null,
       "ts": 1783937318470
     }
