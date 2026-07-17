@@ -52,7 +52,7 @@
     },
     "8356984866": {
       "balance": 2000,
-      "orders": 6,
+      "orders": 7,
       "name": "Zarr"
     }
   },
@@ -947,6 +947,20 @@
       "otp": null,
       "ts": 1784276612614,
       "canceledAt": 1784276697406
+    },
+    {
+      "oid": "HVMROOAGP2",
+      "uid": "8356984866",
+      "app": "wa",
+      "srv": 1,
+      "phone": "+62 851 8476 1328",
+      "apiOrderId": "RO0027885873",
+      "price": 4000,
+      "userName": "Zarr",
+      "source": "cheapest",
+      "status": "WAITING",
+      "otp": null,
+      "ts": 1784276720390
     }
   ],
   "deposits": [
