@@ -51,7 +51,7 @@
       "name": ""
     },
     "8356984866": {
-      "balance": 2000,
+      "balance": 6000,
       "orders": 10,
       "name": "Zarr"
     }
@@ -1002,9 +1002,10 @@
       "price": 4000,
       "userName": "Zarr",
       "source": "cheapest",
-      "status": "PROCESSING_CANCEL",
+      "status": "CANCELED",
       "otp": null,
-      "ts": 1784277311293
+      "ts": 1784277311293,
+      "canceledAt": 1784277344877
     }
   ],
   "deposits": [
