@@ -52,7 +52,7 @@
     },
     "8356984866": {
       "balance": 2000,
-      "orders": 11,
+      "orders": 12,
       "name": "Zarr"
     }
   },
@@ -1021,6 +1021,20 @@
       "otp": null,
       "ts": 1784277444197,
       "canceledAt": 1784277478155
+    },
+    {
+      "oid": "HVMROOR6JJ",
+      "uid": "8356984866",
+      "app": "wa",
+      "srv": 1,
+      "phone": "+62 851 2418 7365",
+      "apiOrderId": "RO0027892469",
+      "price": 4000,
+      "userName": "Zarr",
+      "source": "cheapest",
+      "status": "WAITING",
+      "otp": null,
+      "ts": 1784277500383
     }
   ],
   "deposits": [
