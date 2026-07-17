@@ -1017,7 +1017,7 @@
       "price": 4000,
       "userName": "Zarr",
       "source": "cheapest",
-      "status": "WAITING",
+      "status": "PROCESSING_CANCEL",
       "otp": null,
       "ts": 1784277444197
     }
