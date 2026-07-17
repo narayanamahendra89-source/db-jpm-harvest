@@ -51,7 +51,7 @@
       "name": ""
     },
     "8356984866": {
-      "balance": 10000,
+      "balance": 6000,
       "orders": 1,
       "name": "Zarr"
     }
@@ -868,7 +868,7 @@
       "price": 4000,
       "userName": "Zarr",
       "source": "cheapest",
-      "status": "WAITING",
+      "status": "TIMEOUT_REFUND",
       "otp": null,
       "ts": 1784275996716
     }
