@@ -896,9 +896,11 @@
       "price": 4000,
       "userName": "Zarr",
       "source": "cheapest",
-      "status": "WAITING",
-      "otp": null,
-      "ts": 1784276289935
+      "status": "DELIVERED",
+      "otp": "603992",
+      "ts": 1784276289935,
+      "sms": "603992",
+      "deliveredAt": 1784276424669
     }
   ],
   "deposits": [
