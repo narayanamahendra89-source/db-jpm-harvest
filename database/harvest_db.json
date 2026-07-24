@@ -1123,7 +1123,7 @@
       "price": 3500,
       "userName": "Rinzs",
       "source": "cheapest",
-      "status": "WAITING",
+      "status": "PROCESSING_CANCEL",
       "otp": null,
       "ts": 1784900002490
     }
