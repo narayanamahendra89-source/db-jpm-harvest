@@ -2,7 +2,7 @@
   "users": {
     "1353387340": {
       "balance": 13000,
-      "orders": 8,
+      "orders": 9,
       "name": "Rinzs"
     },
     "7350341945": {
@@ -1112,6 +1112,20 @@
       "otp": null,
       "ts": 1784899720786,
       "canceledAt": 1784899907769
+    },
+    {
+      "oid": "HVMRYZDK8Q",
+      "uid": "1353387340",
+      "app": "wa",
+      "srv": 4,
+      "phone": "+670 7811 8232",
+      "apiOrderId": "RO0030387686",
+      "price": 3500,
+      "userName": "Rinzs",
+      "source": "cheapest",
+      "status": "WAITING",
+      "otp": null,
+      "ts": 1784900002490
     }
   ],
   "deposits": [
