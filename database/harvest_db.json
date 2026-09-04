@@ -68,9 +68,11 @@
       "price": 3500,
       "userName": "Rinzs",
       "source": "cheapest",
-      "status": "WAITING",
-      "otp": null,
-      "ts": 1788518638400
+      "status": "DELIVERED",
+      "otp": "735104",
+      "ts": 1788518638400,
+      "sms": "735104",
+      "deliveredAt": 1788518677104
     }
   ],
   "deposits": []
