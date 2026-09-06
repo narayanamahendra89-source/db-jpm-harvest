@@ -1,7 +1,7 @@
 {
   "users": {
     "1353387340": {
-      "balance": 6500,
+      "balance": 10000,
       "orders": 9,
       "name": "Rinzs"
     },
@@ -158,9 +158,10 @@
       "price": 3500,
       "userName": "Rinzs",
       "source": "cheapest",
-      "status": "PROCESSING_CANCEL",
+      "status": "CANCELED",
       "otp": null,
-      "ts": 1788710344765
+      "ts": 1788710344765,
+      "canceledAt": 1788710521759
     }
   ],
   "deposits": []
