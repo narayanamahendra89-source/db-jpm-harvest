@@ -143,7 +143,7 @@
       "price": 3500,
       "userName": "Rinzs",
       "source": "manual",
-      "status": "WAITING",
+      "status": "PROCESSING_CANCEL",
       "otp": null,
       "ts": 1788710154430
     }
